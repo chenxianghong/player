@@ -1,0 +1,52 @@
+[
+    {
+        "image": "./source/img/album1.jpeg",
+        "audio": "./source/audio/audio1.mp3",
+        "song": "Can't Get Enough (Pegato Remix)",
+        "rhythm": "pegato",
+        "lyric": "Pegato",
+        "album": "Can't Get Enough (Pegato Remix)",
+        "singer": "Pegato / BRKLYN / Mariah Mcmanus",
+        "duration": 230
+    },
+    {
+        "image": "./source/img/album2.jpeg",
+        "audio": "./source/audio/audio2.mp3",
+        "song": "Desire",
+        "rhythm": "未知",
+        "lyric": "未知",
+        "album": "Y&Y",
+        "singer": "Years & Years",
+        "duration": 205
+    },
+    {
+        "image": "./source/img/album3.jpeg",
+        "audio": "./source/audio/audio3.mp3",
+        "song": "玩具",
+        "rhythm": "林从胤",
+        "lyric": "林从胤",
+        "album": "就是爱你",
+        "singer": "梁一贞",
+        "duration": 269
+    },
+    {
+        "image": "./source/img/album4.jpeg",
+        "audio": "./source/audio/audio4.mp3",
+        "song": "看月亮爬上来",
+        "rhythm": "张杰",
+        "lyric": "张杰",
+        "album": "易烊千玺翻唱集",
+        "singer": "易烊千玺",
+        "duration": 180
+    },
+    {
+        "image": "./source/img/album5.jpeg",
+        "audio": "./source/audio/audio5.mp3",
+        "song": "告白气球",
+        "rhythm": "周杰伦",
+        "lyric": "方文山",
+        "album": "周杰伦的床边故事",
+        "singer": "宇西",
+        "duration": 215
+    }
+]
